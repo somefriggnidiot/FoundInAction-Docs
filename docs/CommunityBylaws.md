@@ -5,7 +5,7 @@ The name of this organization shall be "Found in Action," ("FiA," or "the Commun
 Found In Action is a positive, laid-back gaming community for gamers striving to bring meaningful change to the world around them.
 ## Section 2 - Vision
 Found in Action strives to become synonymous with charitable gaming through employment of fundraisers and charity events, creating a positive community of growth and giving back.
-### Article III - Structure
+# Article III - Structure
 The Community shall be made up of Members and governed by Staff. 
 ## Section 1 - Staff
 Staff are Members of the Community who have been appointed to ensure it maintains the proper course to achieve its vision and adheres to its mission. As such, staff must be eligible for General Membership and appointed as outlined in IV.1. The category of Staff consists of three tiers: an upper tier known as Directors, an intermediate tier of Managers, and a lower tier known of Moderators.
@@ -17,8 +17,9 @@ Focused on ensuring Moderators work together seamlessly between themselves and t
 Moderators are tasked with day-to-day responsibilities, such as ensuring the Code of Conduct is upheld, and maintaining Community activity and engagement. They are the front-line and prime example of the community, embodying the behavior expected within the community. Their person skills ensure all feel welcome and create a healthy environment for the community.
 ## Section 2 - Members
 The general population of the Community shall be referred to as "Members."
-Subsection A - General Membership
+### Subsection A - General Membership
 "General Membership" shall be defined as the overall base of people regularly engaging in the community on a given social platform. Membership is open to the public and requires no application or approval process other than adherence to the Code of Conduct and enough activity to be recognized within the Community.
+
 For the purpose of Community Business, a member shall be defined as "active" only if they have been seen online on an official Community social platform within the past 30 days.
 ### Subsection B - Team Membership
 "Team Membership" shall consist of a select group of players who dedicate additional time to playing as a dedicated team under the banner of an official Found in Action team for the purpose of competitive play. Team Membership may be open only under specific circumstances and gated behind an approval process.
@@ -30,20 +31,24 @@ Cosmetic titles, roles, or color overrides, (collectively "Tenure Titles") may b
 ## Section 1 - Position Appointments
 ### Subsection A - Moderator
 The position of Moderator may be attained following a minimum of one (1) month as a Member of the Community. Qualifying members may apply for the position via the Staff Application process set forth by Community Directors.
+
 Appointment to the position shall only happen after a simple majority vote among existing Directors and Managers approving the application. Votes for nominees must be received no later than two (2) weeks after an application has been submitted.
 ### Subsection B - Manager
 The position of Manager may be attained following a minimum of six (6) months' service as a Moderator, and nomination by a minimum weight of five (5) where Moderators weigh two (2), Managers weigh three (3), and Directors weigh six (6). 
+
 Appointment to the position shall only happen after a simple majority vote among existing Directors and Managers. Votes for nominees must be received no later than two (2) weeks after a nomination has been confirmed.
 * The prerequisite of service as a Moderator may be ignored if the one of the following conditions are met:
 * The amount of Managers is lesser than four (4.)
 Vote by existing Managers is unanimously in consent. 
 ### Subsection C - Director
 The position of Director may be attained following a minimum of six (6) months' service as a Manager, and nomination by a minimum weight of ten (12) where Moderators weigh two (2), Managers weigh three (4), and Directors weigh six (6).
+
 Appointment to the position shall only happen after a simple majority vote among existing Directors and Managers. Votes for nominees must be received no later than two (2) weeks after a nomination has been confirmed.
-* The prerequisite of service as a Manager may be ignored if:
-  * The prerequisite for service as a Moderator was not ignored when appointed to Manager, and:
+
+The prerequisite of service as a Manager may be ignored if:
+* The prerequisite for service as a Moderator was not ignored when appointed to Manager, and:
   * The total amount of staff is lesser than six (6.)
-Vote by existing Directors is unanimously in consent.
+  * Vote by existing Directors is unanimously in consent.
 ### Subsection D - Team Membership
 Members may be appointed to an official Found in Action team following an application and approval process which may include an interview, performance review, and live play. Full application and approval process details shall be outlined individually for each game team created by Found In Action.
 ## Section 2 - Community Business
@@ -72,7 +77,9 @@ Directors shall be charged with ensuring the Community is adhering to its Missio
 It shall be the duty of the Staff as a whole to interpret these bylaws. Any Staff member may challenge the agreed-upon interpretation during regular Community business by motion. Should the dispute remain unresolved, proper interpretation shall be determined by the Directors as a whole via discussion and simple majority vote.
 ## Section 2 - Amending These Bylaws
 Any change to the wording or phrasing of these Bylaws must be initiated by a motion during regular Community business. Any proposed amendment shall be made visible to all members for a duration no shorter than two (2) weeks before being put to vote.
+
 Voting shall commence during regular Community business following the minimum duration stated above. A simple majority vote by the Membership is required to pass the amendment. If no quorum can be reached after two (2) weeks following the start of the vote, the amendment may be passed with 75% approval by Staff vote.
+
 Minor changes to formatting or to correct spelling may be carried out by any Director with a simple majority vote of the Directors.
 # Article VI - Policies and Procedures
 Additional policies and procedures may be developed and maintained by the Directors and shall be published to the Guilded server of the community in a publicly viewable channel. Any such documents are subject to the same interpretation and amendment procedures as these Bylaws with the exception of the required minimum duration prior to voting.
