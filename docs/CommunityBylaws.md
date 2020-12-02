@@ -52,11 +52,10 @@ The prerequisite of service as a Manager may be ignored if:
 ### Subsection D - Team Membership
 Members may be appointed to an official Found in Action team following an application and approval process which may include an interview, performance review, and live play. Full application and approval process details shall be outlined individually for each game team created by Found In Action.
 ## Section 2 - Community Business
-1. "Normal Business" or "Community business" shall be defined as either of the two: 
-The duration of any synchronous gathering of the Membership which contains, at minimum, enough of the Membership to constitute a quorum for a Membership vote, and either enough of the Staff to constitute a quorum for a Staff vote OR enough of the Managers to constitute a Manager vote.
-1. Any asynchronous platform designated by the Managers as a platform for Community Business which all Members can access and which also contains, at minimum, enough of the Membership to constitute a quorum for a Membership vote, and either enough of the Staff to constitute a quorum for a Staff vote OR enough of the Managers to constitute a Manager vote.  
+1. The duration of any synchronous gathering of the Membership which contains, at minimum, enough of the Membership to constitute a quorum for a Membership vote, and either enough of the Staff to constitute a quorum for a Staff vote OR enough of the Managers or Directors to constitute a Manager or Director vote respectively.
+1. Any asynchronous platform designated by the Directors as a platform for Community Business which all Members can access and which also contains, at minimum, enough of the Membership to constitute a quorum for a Membership vote, and either enough of the Staff to constitute a quorum for a Staff vote OR enough of the Managers or Directors to constitute a Manager or Director vote respectively.
 
-During Community business, any Member may put forth a motion to be seconded and voted upon by the present Membership. Any motion put forth by a member, prior to vote, may be put on hold pending further clarification for no longer than one (1) month by a Staff vote or declaration of a single Manager.
+During Community business, any Member may put forth a motion to be seconded and voted upon by the present Membership. Any motion put forth by a member, prior to vote, may be put on hold pending further clarification for no longer than one (1) month by a Staff vote or declaration of a single Director.
 ### Subsection A - Quorums
 For any business of the Community to be enacted, the following quorums must be met:
 * For votes of the Membership, a quorum of 5% of active members, of which any amount may consist of the Membership or the Staff.
