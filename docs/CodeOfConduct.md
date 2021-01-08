@@ -7,15 +7,17 @@ Please let us hear from you! You are encouraged to escalate your concerns direct
 ## Respect
 Intentionally chosen as the first value of our community, we expect all to be respectful of others. Acknowledge differences with reason and an open mind; it is required to show tolerance and consideration to one another and our guests. While there are bound to be disagreements, the presence of respect prevents their escalation into an argument.
 
-We do not accept blatantly aggressive, discriminatory, or provocative behavior.
+We do not accept blatantly aggressive, discriminatory, bigoted, or provocative behavior.
 ## Integrity
 First and foremost, we do not condone hacking or cheating in any games. However, integrity isn't just about cheating. We expect our members and guests to be truthful and straightforward. In addition to cheating, behaviors such as scamming, luring unsuspecting players into dangerous situations in games, or other deceptive practices will not be tolerated. We want to foster an honest, ethical community, and will strive to remove those who undermine that ideal.
 ## Maturity
 While we don't generally have an age requirement for our members or guests, we do require a certain level of maturity. Cursing, screaming, "raging," spamming, and general obnoxiousness should be limited in most situations. 
-###  No-Drama Policy
-At the end of the day, we're all just here to have fun in a game. While we recognize that life (and even games) aren't perfect, we endeavor to maintain a positive environment for each other and our guests. For this reason, we ask that you avoid bringing up controversial topics in large group settings, including religion and politics.
+### Good Vibes Policy
+Nobody likes playing with a Debbie Downer or Suzie Smacktalker. We're not going to force you to put on a smile and act like you're enjoying being down 1-10 in Valorant, but we won't sit idly by as your attitude purges the call of any remaining positivity. Please refrain from excessive smack talk (to your teammates, opponents, and bystanders alike) and keep toxicity where it belongs: not here.   
+### No-Drama Policy
+At the end of the day, we're all just here to have fun with friends, be it in-game or just hanging out. While we recognize that life isn't perfect, we endeavor to maintain a positive environment for each other and our guests. For this reason, we ask that you avoid bringing up controversial topics (such as religion and politics) in larger settings. 
 
-We also understand that not everybody can always get along. While disagreements are bound to happen, do not let them spill out into public settings. Community staff are more than happy to address your concerns privately, as doing so allows a more focused discussion and a more efficient resolution.
+We also understand that not everybody can always get along. While disagreements are bound to happen, please do not let them spill out into public settings. This includes pulling other, unrelated parties into your drama, as well as "airing your dirty laundry." Community staff are more than happy to address your concerns privately, as doing so allows a more focused discussion and a more efficient resolution.
 ### Conduct Over Voice
 When using voice chats, please continue to be mindful of those around. Whenever possible, use push-to-talk as your method of transmitting voice. Disruptive behaviors such as excessive yelling, background noise, mumbling self-narratives, overuse of soundboards/effects, and "second-hand audio" may result in disciplinary action or people avoiding you.
 # Staff Expectations
