@@ -1,84 +1,99 @@
 # Article I - Organization Definition
-The name of this organization shall be "Found in Action," ("FiA," or "the Community.") Found in Action is a privately-ran, public gaming community, established in April 12, 2011. The Community shall run in perpetuity until such a time that present staff unanimously agree to dissolve it or no active staff remain after a period of one year.
-# Article II - Objective
-## Section 1 - Mission
-Found In Action is a positive, laid-back gaming community for gamers striving to bring meaningful change to the world around them.
-## Section 2 - Vision
-Found in Action strives to become synonymous with charitable gaming through employment of fundraisers and charity events, creating a positive community of growth and giving back.
-# Article III - Structure
-The Community shall be made up of Members and governed by Staff. 
-## Section 1 - Staff
-Staff are Members of the Community who have been appointed to ensure it maintains the proper course to achieve its vision and adheres to its mission. As such, staff must be eligible for General Membership and appointed as outlined in IV.1. The category of Staff consists of three tiers: an upper tier known as Directors, an intermediate tier of Managers, and a lower tier known of Moderators.
-### Subsection A - Directors
-Focused on the big-picture and long-term goals of the community, Directors ensure the budget remains balanced and the policies remain up-to-date. They are the diplomatic face of the community, and charged with the hands-off oversight of the community itself. 
-### Subsection B - Managers
-Focused on ensuring Moderators work together seamlessly between themselves and the community, Managers help keep tabs on activity across the community and its games, and provide feedback on how best to allocate resources and meet goals. Managers are the go-between for Directors and Moderators, providing policy and appointment recommendations to Directors, and ensuring goals are met by Moderators.
-### Subsection C - Moderators
-Moderators are tasked with day-to-day responsibilities, such as ensuring the Code of Conduct is upheld, and maintaining Community activity and engagement. They are the front-line and prime example of the community, embodying the behavior expected within the community. Their person skills ensure all feel welcome and create a healthy environment for the community.
-## Section 2 - Members
-The general population of the Community shall be referred to as "Members."
-### Subsection A - General Membership
-"General Membership" shall be defined as the overall base of people regularly engaging in the community on a given social platform. Membership is open to the public and requires no application or approval process other than adherence to the Code of Conduct and enough activity to be recognized within the Community.
+## Section 1 - Organization Title
+The name of this organization shall be "Always Moving Forward." Always Moving Forward ("the Clan", "AMF", or "A M F") is a private, unregistered organization.
+## Section 2 - Objective
+The objective of the Clan shall be to develop a collaborative environment and foster the growth of players within the game of RuneScape 3 ("RS", "RS3", or "in-game".)
+# Article II - Structure
+The Clan shall be made up of members and governed by two tiers of officers ("the Staff.") The lower tier of the Staff shall be known as the "Low Council" and the upper tier shall be known as the "High Council." 
+## Section 1 - High Council
+The High Council shall consist of the Owner of the Clan and all members holding the "Deputy Owner" rank in-game.  
+Members may be appointed to the High Council by existing High Council members and approved by a majority of no less than 75% of the existing Staff during regular Staff business. Appointment of a High Council member must be approved through vote within no more than fourteen (14) days.   
+No Member may be appointed to the High Council if doing so would cause the amount of members in the High Council, with the omission of the Owner, to number greater than 2% of the total membership.  
+### Subsection A - Purpose of the High Council
+The High Council shall be charged with interpreting, enforcing, and maintaining these Bylaws and any associated documentation for the Clan.  
+The High Council shall ensure the availability of proper tooling and support for the Low Council, while simultaneously assuming the same responsibilities of the Low Council when necessary or appropriate.  
+Thus, it shall be the purpose of the High Council to ease the work of the Low Council through establishing processes, acquiring or developing tooling, and developing habits which facilitate a productive and cooperative environment.  
+## Section 2 - Low Council
+The Low Council shall consist of all members of the Clan holding the in-game ranks of Administrator, Organiser, Coordinator, or Overseer.  
+Members may petition for entry into the Low Council via application to be approved by a simple majority of the Staff during regular Staff business.
+### Subsection A - Purpose of the Low Council
+The Low Council shall be charged with the daily operations of the clan, including: ensuring rank changes are applied when and where appropriate, disseminating information regarding upcoming events or recent announcements, and assisting in the design and hosting of events.  
+It shall be the purpose of the Low Council to create and host events, accurately log activities with associated point values, and ensure the engagement of the Membership.  
+## Section 3 - Membership
+The general population of the Clan shall be known as "Members" or collectively as "the Membership." The Membership shall consist of all in-game members holding the in-game ranks of Recruit, Corporal, Sergeant, Lieutenant, Captain, and General.  
+Anybody may become a Member of the Clan so long as they are in good standing with the Clan.  
+# Article III - Governance
+## Section 1 - Normal Business
+"Normal Business" or "normal Clan business" shall be defined as either of the two:  
+* The duration of any synchronous gathering of the Membership which contains, at minimum, enough of the Membership to constitute a quorum for a Membership vote, and either enough of the Staff to constitute a quorum for a Staff vote OR enough of the High Council to constitute a High Council quorum.
+* Any asynchronous platform designated by the High Council as a platform for Community Business which all Members can access and which also contains, at minimum, enough of the Membership to constitute a quorum for a Membership vote, and either enough of the Staff to constitute a quorum for a Staff vote OR enough of the High Council to constitute a High Council quorum.  
 
-For the purpose of Community Business, a member shall be defined as "active" only if they have been seen online on an official Community social platform within the past 30 days.
-### Subsection B - Team Membership
-"Team Membership" shall consist of a select group of players who dedicate additional time to playing as a dedicated team under the banner of an official Found in Action team for the purpose of competitive play. Team Membership may be open only under specific circumstances and gated behind an approval process.
-### Subsection B - VIP Membership
-"VIP Membership" or "Premium Members" shall be defined as those qualifying for General Membership who contribute to the Community financially on a regular basis via Patreon or direct donation. VIP Membership is open to the public and requires no additional application or approval processes than General Membership.
-### Subsection C - Tenure Titles
-Cosmetic titles, roles, or color overrides, (collectively "Tenure Titles") may be applied arbitrarily to members. Tenure Titles are cosmetic in their entirety and do not necessarily indicate any position of authority, seniority, or superiority over the General Membership.
-# Article IV - Governance
-## Section 1 - Position Appointments
-### Subsection A - Moderator
-The position of Moderator may be attained following a minimum of one (1) month as a Member of the Community. Qualifying members may apply for the position via the Staff Application process set forth by Community Directors.
-
-Appointment to the position shall only happen after a simple majority vote among existing Directors and Managers approving the application. Votes for nominees must be received no later than two (2) weeks after an application has been submitted.
-### Subsection B - Manager
-The position of Manager may be attained following a minimum of six (6) months' service as a Moderator, and nomination by a minimum weight of five (5) where Moderators weigh two (2), Managers weigh three (3), and Directors weigh six (6). 
-
-Appointment to the position shall only happen after a simple majority vote among existing Directors and Managers. Votes for nominees must be received no later than two (2) weeks after a nomination has been confirmed.
-* The prerequisite of service as a Moderator may be ignored if the one of the following conditions are met:
-* The amount of Managers is lesser than four (4.)
-Vote by existing Managers is unanimously in consent. 
-### Subsection C - Director
-The position of Director may be attained following a minimum of six (6) months' service as a Manager, and nomination by a minimum weight of ten (12) where Moderators weigh two (2), Managers weigh three (4), and Directors weigh six (6).
-
-Appointment to the position shall only happen after a simple majority vote among existing Directors and Managers. Votes for nominees must be received no later than two (2) weeks after a nomination has been confirmed.
-
-The prerequisite of service as a Manager may be ignored if:
-* The prerequisite for service as a Moderator was not ignored when appointed to Manager, and:
-  * The total amount of staff is lesser than six (6.)
-  * Vote by existing Directors is unanimously in consent.
-### Subsection D - Team Membership
-Members may be appointed to an official Found in Action team following an application and approval process which may include an interview, performance review, and live play. Full application and approval process details shall be outlined individually for each game team created by Found In Action.
-## Section 2 - Community Business
-1. The duration of any synchronous gathering of the Membership which contains, at minimum, enough of the Membership to constitute a quorum for a Membership vote, and either enough of the Staff to constitute a quorum for a Staff vote OR enough of the Managers or Directors to constitute a Manager or Director vote respectively.
-1. Any asynchronous platform designated by the Directors as a platform for Community Business which all Members can access and which also contains, at minimum, enough of the Membership to constitute a quorum for a Membership vote, and either enough of the Staff to constitute a quorum for a Staff vote OR enough of the Managers or Directors to constitute a Manager or Director vote respectively.
-
-During Community business, any Member may put forth a motion to be seconded and voted upon by the present Membership. Any motion put forth by a member, prior to vote, may be put on hold pending further clarification for no longer than one (1) month by a Staff vote or declaration of a single Director.
+During clan business, any Member may put forth a motion to be seconded and voted upon by the present Membership. Any motion put forth by a member, prior to vote, may be put on hold pending further clarification for no longer than one (1) month by a Staff vote or declaration of a single member of the High Council.
 ### Subsection A - Quorums
-For any business of the Community to be enacted, the following quorums must be met:
-* For votes of the Membership, a quorum of 5% of active members, of which any amount may consist of the Membership or the Staff.
-* For votes of the Staff, a quorum of 20%, of which any amount may consist of Managers, Moderators, or Directors.
-* For votes of the Managers, a quorum of 40%.
-* For votes of the Directors, a quorum of 60%.
-* For votes of Directors and Managers, a quorum of 50%.
-## Section 3 - Responsibilities of the Staff
-It shall be the responsibility of all Staff to ensure the Bylaws, Code of Conduct, and other official Community documentation are upheld and properly maintained.
-### Subsection A - Moderators
-Moderators shall be charged with the health and growth of the community. They shall be expected to disseminate information to members such as important Community updates and events, as well as growing the Membership and providing feedback to changes, via Managers, to changes and goals proposed by the Directors. As the pillars and face of the Community, Moderators must embody the Code of Conduct to ensure the Community attracts the proper clientele.
-### Subsection B - Managers
-Managers shall be charged with safeguarding the heartbeat of the community. They shall keep tabs on activity across the community, recommending games into which the Community should expand, and providing feedback on how best to allocate resources to meet the provided goals. Managers are the go-between for Moderators and Directors, providing policy and appointment recommendations to Directors and ensuring goals are met by Moderators. They act as managers to those below them, and advisors to those above them.
-### Subsection C - Directors
-Directors shall be charged with ensuring the Community is adhering to its Mission and Vision. They shall work together to ensure the budget is balanced and the policies are up-to-date. They are the diplomatic face of the Community in all external affairs, and safeguard out external reputation. Within the Staff hierarchy, Directors delegate goals to Managers to help grow the Community, and curate all enforceable policies for the Community.
-# Article V - Interpretation and Amendments
+For any business of the Clan to be enacted, the following quorums must be met:
+* For votes of the Membership, a quorum of 10% of active players, of which any amount may consist of the Membership or the Staff.
+* For votes of the Staff, a quorum of 20%, of which any amount may consist of Low Council or High Council officers.
+* For votes of the High Council, a quorum of 60%.
+## Section 2 - Staff Responsibilities
+The Staff shall guide and maintain the Clan on its path to fulfill its Objective. In addition to the duties charged to each individual tier of the Staff, the subsections outlined within shall be the responsibility of all Staff at any given time.   
+### Subsection A - Point Tracking
+For the purpose of maintaining a fair and structured system for earning ranks in-game, the Clan shall implement and adhere to a system to track activities, assign point values to activities, and establish the point-value thresholds upon which ranks are received.  
+It shall be the duty of the High Council to implement the system, and the duty of all Staff to ensure its proper use.
+### Subsection B - Events
+For the purpose of maintaining activity and engagement with the Membership, the Staff, either individually or collectively, shall organize and host regular events. Any member of the Staff involved in the planning, organizing, or hosting of an event is ineligible for any prizes or rewards associated with said event.
+### Subsection C - Clan Citadel
+For the purpose of maintaining an in-game home for the Clan, the Staff shall orchestrate upgrades and construct realistic goals in accordance to the planned upgrades to the Clan Citadel. As such, all Staff are expected to maintain fealty at the Clan Citadel.
+## Section 3 - Remaining in Good Standing
+All members of the Clan must remain in "good standing" with the clan. Upon joining, good standing may only be lost by meeting one or more of the following conditions:
+* Commit any such transgressions against the Jagex player code of conduct which result in the suspension of your account.
+* Commit any such transgressions against the rules of the Clan or the Clan's Code of Conduct which result in your immediate removal from the Clan.
+* Establish a pattern of non-major transgressions against the rules of the Clan, the Clan's Code of Conduct, or the Jagex player code of conduct such that a simple majority of the Staff (by vote) feel it in the best interest of the Clan to remove the player from the Clan.
+### Subsection A - Staff Good Standing
+All members of the Staff shall be held to additional standards to ensure their activity and commitment to the Clan.  
+Any member of the Staff who loses their good standing shall be subject to a probationary period lasting no more than one (1) month and attend a special probationary meeting before the High Council prior to regaining their good standing. Any member of the Staff who fails to regain their good standing after the probationary period shall be stripped of their position, relegated to the rank of General, and barred from regaining a position among the Staff for no less than two (2) months.   
+For the purposes of the High Council, the following conditions--in addition to the conditions laid out in document regarding Member good standing--may see a member lose their good standing as a member of the Staff:  
+* Consecutively miss three (3) regular staff meetings with failure to provide update within two (2) days of the meeting.
+* Inactivity as defined by the Code of Conduct.
+* Breach of Staff Trust as defined by the Code of Conduct.
+
+The following may see a member of the Staff demoted immediately, pending investigation:  
+* Removal of any Member from the Clan without cause.
+* Theft or unilateral destruction of any Clan goods or properties, whether in-game or not.
+## Section 4 - Code of Conduct
+All members of the Clan shall be held to a general Code of Conduct as set forth and maintained by the High Council.
+# Article IV - Meetings
+These bylaws shall mandate various meetings to be conducted to ensure proper collaboration among all members of the Staff and regular communication with the Membership. 
+## Section 1 - General Assembly / Clan Meetings
+A General Assembly meeting shall be held, open to the entirety of the membership, on an as-needed basis and no more frequently than bi-weekly. This meeting is not compulsory.  
+The purpose of this meeting shall be to allow the Membership to set forth and vote upon motions, as well as to provide a platform through which the Staff may supply the Membership with news.  
+## Section 2 - Staff Meetings
+Staff Meetings shall be exclusive to existing members of the Staff and any additional players--Member or otherwise--summoned to appear before or invited to attend the meeting.
+### Subsection A - Staff Update Meetings
+A Staff Update Meeting shall occur as frequently as necessary. The Staff Update Meeting shall be compulsory, and scheduled with a minimum of seven (7) days warning.  
+The meeting shall exist for the following purposes:
+* to notify the Lower Council of resolutions recently reached by the High Council affecting the Staff.
+* to discuss and disseminate information pertaining to upcoming events or resolutions affecting the Membership.
+* to ensure the Staff remain active in their capacity as members of the Staff.
+
+Staff Update Meetings may occur asynchronously, in which case all Staff are to post their updates to the location specified upon scheduling no later than twenty-four (24) hours after the scheduled end to the meeting.
+## Section 3 - Additional Meetings
+Additional meetings may be scheduled as needed. Meetings which are compulsory for some or all individuals must include a notice period of at least seven (7) days, and a detailed agenda must be published no fewer than three (3) days prior to the event.  
+Meetings which are non-compulsory in their entirety require no agenda or notice. 
+# Article V - Bylaw Interpretation and Amendments
 ## Section 1 - Interpretation
-It shall be the duty of the Staff as a whole to interpret these bylaws. Any Staff member may challenge the agreed-upon interpretation during regular Community business by motion. Should the dispute remain unresolved, proper interpretation shall be determined by the Directors as a whole via discussion and simple majority vote.
+These bylaws shall be interpreted by the Owner with counsel by the High Council. Any member may challenge this interpretation by motion during regular Clan business. Should the dispute remain unresolved, an ad-hoc committee shall be formed to determine the proper interpretation and propose an amendment for clarification. The ad-hoc committee shall be composed as such:
+* one (1) member of the Low Council by volunteer, to sit as Committee Chairman  
+*In any instance where there are no eligible volunteers for the position of Committee Chairman, one shall be appointed by the High Council.*  
+* three (3) members of the Clan by volunteer, of which none may be members of the Staff  
+*In any instance where there are not enough eligible volunteers to form the Committee Body, any vacancies shall be filled by appointment by the Committee Chairman.*  
+
+No members of the Staff or the Membership involved in the dispute shall be eligible to sit on the committee or participate in selecting the committee.  
 ## Section 2 - Amending These Bylaws
-Any change to the wording or phrasing of these Bylaws must be initiated by a motion during regular Community business. Any proposed amendment shall be made visible to all members for a duration no shorter than two (2) weeks before being put to vote.
-
-Voting shall commence during regular Community business following the minimum duration stated above. A simple majority vote by the Membership is required to pass the amendment. If no quorum can be reached after two (2) weeks following the start of the vote, the amendment may be passed with 75% approval by Staff vote.
-
-Minor changes to formatting or to correct spelling may be carried out by any Director with a simple majority vote of the Directors.
-# Article VI - Policies and Procedures
-Additional policies and procedures may be developed and maintained by the Directors and shall be published to the Guilded server of the community in a publicly viewable channel. Any such documents are subject to the same interpretation and amendment procedures as these Bylaws with the exception of the required minimum duration prior to voting.
+Any change to these Bylaws which could potentially result in a change in meaning or interpretation must be initiated by motion during regular Clan business. Any proposed amendment shall be made visible to all Members for a duration no shorter than one (1) week before the vote may be finalized.  
+A simple majority vote by the Membership is required to pass the amendment. If no quorum can be reached after one (1) week, the amendment may be passed with 75% approval by Staff vote.  
+Minor changes to formatting or to correct spelling may be carried out by a member of the High Council and approved with a simple majority vote of the Staff.  
+# Article VI - Policies, Procedures, and Additional Documents
+Additional policies and procedures may be developed and maintained by the High Council and shall be published to the Guilded server of the Clan in a publicly-visible channel. Any such documents are subject to approval following the same methods set forth for the approval of amendments.
+___
+# TLDR
+Clan is split into staff (Admin or higher) and members (General or lower.) Staff is further split into High Council (Deputy Owners and Owners) and Low Council (Admin thru Overseer). Staff are supposed to track points, run events, and keep the citadel in working order. High Council is supposed to make the Low Council's life easier in any way possible and maintain the documents while still doing staff stuff.
